@@ -1,6 +1,6 @@
 # my_goals
 
-A new Flutter project.
+A new Flutter project. 一个新的flutter项目开始学习flutter项目。
 
 ## Getting Started
 
